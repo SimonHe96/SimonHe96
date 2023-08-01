@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### <div align="center">I'm Simon, a Pipeline TD/TA 👨‍💻 working remotely since 2016 🚀</div>  
 <!--
 **SimonHe96/SimonHe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
