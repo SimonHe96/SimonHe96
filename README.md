@@ -1,4 +1,4 @@
-### Hi there 👋
+### <div align="center">Hi there 👋</div>  
 
 ### <div align="center">I'm Simon, a Pipeline TD/TA 👨‍💻 working remotely since 2016 🚀</div>  
 <!--
